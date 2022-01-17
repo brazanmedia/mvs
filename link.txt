@@ -1,4 +1,4 @@
-<?php
+
 
 $n = 1;
 
@@ -64,4 +64,4 @@ echo "[$num]Sukses Inject |  ".$adres."\n";
 
 }
 
-?>
+
